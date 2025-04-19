@@ -1,23 +1,28 @@
-# Hi, I'm Ibraheem
+# Hi there, I'm Ibraheem
 
 ## Software Engineer | Tech Leader | Innovator
 
-Born and raised in Texas, now based in New York City, I've built my career at the intersection of technology and business innovation. My journey began with a marketing degree from UT Austin, which gave me a unique perspective on how technology serves users. This foundation led me through diverse roles - from investment banking at Barclays to managing user acquisition for major mobile game franchises at Zynga, and eventually to pioneering tech work at industry leaders like LinkedIn.
+### Technical Skills & Expertise
+
+- Full-stack development with TypeScript, JavaScript frameworks, and Python
+- Cloud infrastructure (AWS, Azure)
+- Cybersecurity and secure application development
+- User experience design and implementation
+- Model Communication Protocol (MCP) server development
+- Responsive cross-platform application architecture
+- Agile methodologies and cross-functional team leadership
+
+### Engineering Philosophy
+
+I love creating tech that brings people together and makes information more accessible. For me, the best solutions aren't just functional—they're beautiful and meaningful. While pushing for innovation, I never compromise on security and compliance.
+
+My approach combines technical expertise with business understanding, allowing me to build systems that solve real problems while delivering exceptional user experiences. I believe great engineering is invisible—it lets the purpose of the product shine through.
 
 ### Current Focus
 
-- Leading engineering at Architect Health, building our digital health platform
-- Pursuing a Master's in Software Engineering at Harvard Extension School (graduating Summer 2025)
-- Specializing in Cybersecurity and advanced software engineering
-- Developing Model Communication Protocol (MCP) servers
-
-### Professional Journey
-
-During my five-plus years at LinkedIn, I played a key role in developing LinkedIn News, enhancing how millions of professionals discover and engage with current events and industry insights. I contributed to the News Module on the homepage and implemented critical features for the platform's search functionality. My experience spans the full tech stack, from building responsive UIs to developing robust backend systems using TypeScript, JavaScript frameworks, Python, and cloud infrastructure including AWS and Azure.
-
-### Philosophy
-
-I love creating tech that brings people together and makes information more accessible. For me, the best solutions aren't just functional—they're beautiful and meaningful. While pushing for innovation, I never compromise on security and compliance.
+- Building digital health platforms that transform patient care
+- Advancing my expertise in Cybersecurity and Software Engineering 
+- Exploring the intersection of scalable architecture and innovative user experiences
 
 ### Connect With Me
 
