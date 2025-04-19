@@ -1,6 +1,6 @@
 # Hi there, I'm Ibraheem
 
-## Software Engineer | Tech Leader | Innovator
+## Software Engineer | Technical Leader | Innovator
 
 ### Technical Skills & Expertise
 
