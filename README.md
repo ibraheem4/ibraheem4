@@ -13,7 +13,7 @@
 
 ### Engineering Philosophy
 
-I love creating tech that brings people together and makes information more accessible. For me, the best solutions aren't just functional—they're beautiful and meaningful. While pushing for innovation, I never compromise on security and compliance.
+I love creating tech that brings people together and makes information more accessible. For me, the best solutions aren't just functional—they're delightful and effective. While pushing for innovation, I never compromise on security and compliance.
 
 My approach combines technical expertise with business understanding, allowing me to build systems that solve real problems while delivering exceptional user experiences. I believe great engineering is invisible—it lets the purpose of the product shine through.
 
