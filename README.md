@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Software Engineer | 🚀 Tech Leader | 🔍 Innovator
 
-Born and raised in Texas, now based in New York City, I've built my career at the intersection of technology and business innovation. My journey began with a marketing degree from UT Austin, which gave me a unique perspective on how technology serves users. This foundation led me through roles in investment banking at Barclays to pioneering tech work at industry leaders like LinkedIn.
+Born and raised in Texas, now based in New York City, I've built my career at the intersection of technology and business innovation. My journey began with a marketing degree from UT Austin, which gave me a unique perspective on how technology serves users. This foundation led me through diverse roles - from investment banking at Barclays to managing user acquisition for major mobile game franchises at Zynga, and eventually to pioneering tech work at industry leaders like LinkedIn.
 
 ### 🛠️ Current Focus
 
