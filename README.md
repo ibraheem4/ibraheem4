@@ -5,7 +5,8 @@
 ### Technical Skills & Expertise
 
 - Full-stack development across multiple languages including TypeScript, Python, and various web frameworks
-- Cloud and infrastructure expertise (AWS, Azure) with high-performance CLI tools and APIs using Rust and Go
+- Cloud and infrastructure expertise (AWS, Azure)
+- High-performance CLI tools and APIs using Rust and Go
 - Secure application development with focus on cybersecurity and compliance best practices
 - AI systems development including integration frameworks, intelligent agents, and LLM-powered applications
 - User-centered design combining responsive cross-platform architecture and exceptional user experiences
