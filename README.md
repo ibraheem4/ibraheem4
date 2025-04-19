@@ -4,13 +4,12 @@
 
 ### Technical Skills & Expertise
 
-- Full-stack development with TypeScript, JavaScript frameworks, and Python
-- Cloud infrastructure (AWS, Azure)
-- Cybersecurity and secure application development
-- User experience design and implementation
-- Model Communication Protocol (MCP) server development
-- Responsive cross-platform application architecture
-- Agile methodologies and cross-functional team leadership
+- Full-stack development across multiple languages including TypeScript, Python, and various web frameworks
+- Cloud and infrastructure expertise (AWS, Azure) with high-performance CLI tools and APIs using Rust and Go
+- Secure application development with focus on cybersecurity and compliance best practices
+- AI systems development including integration frameworks, intelligent agents, and LLM-powered applications
+- User-centered design combining responsive cross-platform architecture and exceptional user experiences
+- Technical leadership using agile methodologies and cross-functional team collaboration
 
 ### Engineering Philosophy
 
