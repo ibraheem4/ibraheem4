@@ -1,6 +1,6 @@
 # Hi there, I'm Ibraheem
 
-## Software Engineer | Technical Leader | Innovator
+## Software Engineer | AI, Automation, UI/UX
 
 ### Technical Skills & Expertise
 
