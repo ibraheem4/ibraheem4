@@ -4,7 +4,7 @@
 
 ### Technical Skills & Expertise
 
-- Full-stack development across multiple languages including TypeScript, Python, and various web frameworks
+- Full-stack development in TypeScript, Python, Golang, and modern web frameworks
 - Cloud and infrastructure expertise (AWS, Azure)
 - High-performance CLI tools and APIs
 - Secure application development with focus on cybersecurity and compliance best practices
