@@ -1,5 +1,7 @@
 # Hi there, I'm Ibraheem
 
-## Senior Software Engineer
+## Founder & Technical Leader
 
-Engineer and founder passionate about building products that scale. I specialize in developing secure, high-performance applications with expertise in full-stack development, cloud infrastructure, and AI technologies. I enjoy turning complex technical problems into simple, useful solutions and driving technical initiatives from concept to completion.
+Entrepreneurial engineer working at the intersection of AI, cloud infrastructure, and secure system design—currently building in the healthcare space. I focus on creating high-trust, scalable products, drawing on deep full-stack experience to turn complex challenges into clear, reliable solutions.
+
+I’ve led products from zero to one, shaped technical direction, and delivered systems built for long-term impact in environments where security and privacy are critical.
